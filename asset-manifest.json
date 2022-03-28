@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brow-master/static/css/main.f9c839e1.css",
+    "main.js": "/brow-master/static/js/main.6f9f4fc9.js",
+    "static/js/787.70c639a9.chunk.js": "/brow-master/static/js/787.70c639a9.chunk.js",
+    "index.html": "/brow-master/index.html",
+    "main.f9c839e1.css.map": "/brow-master/static/css/main.f9c839e1.css.map",
+    "main.6f9f4fc9.js.map": "/brow-master/static/js/main.6f9f4fc9.js.map",
+    "787.70c639a9.chunk.js.map": "/brow-master/static/js/787.70c639a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c839e1.css",
+    "static/js/main.6f9f4fc9.js"
+  ]
+}
